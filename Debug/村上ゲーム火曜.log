@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\cre\Desktop\村上ゲーム火曜\村上ゲーム火曜\game.h(25,3): error C2365: 'Game::NOPIECE': 再定義; 以前の定義は '列挙子' でした。
+C:\Users\cre\Desktop\村上ゲーム火曜\村上ゲーム火曜\game.h(18): message : 'Game::NOPIECE' の宣言を確認してください
